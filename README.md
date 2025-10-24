@@ -1,2 +1,18 @@
-# Clustering
-Taken random data (around 1200 rows) from ChatGPT and made cluster. 
+\# K-Means Clustering Project
+
+
+
+This project demonstrates clustering analysis on a dataset using \*\*K-Means\*\*. It extracts keywords and companies from text data, encodes them numerically, applies K-Means, and visualizes the results.
+
+
+
+---
+
+
+
+\## 📁 Folder Structure
+
+
+
+
+

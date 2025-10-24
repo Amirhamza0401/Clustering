@@ -1,0 +1,47 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container for all content */
+.container {
+    max-width: 900px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Main title */
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+/* Sections for plots */
+.plot-section {
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* Plot images */
+.plot-image {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* Notes section */
+.note {
+    margin-top: 30px;
+    font-size: 0.9em;
+    text-align: center;
+    color: #555;
+}
